@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   /* Fondo degradado místico */
-  background: linear-gradient(135deg, #2e0854, #8e44ad, #ffcc00);
+  background: linear-gradient(135deg, #556B2F, #8e44ad, #ffcc00);
   background-size: 400% 400%;
   animation: fondoAnimado 15s ease infinite;
   color: #f8f5e1;
@@ -67,3 +67,4 @@ h2 {
   background: #fff176;
   transform: scale(1.05);
 }
+
