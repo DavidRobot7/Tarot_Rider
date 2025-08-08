@@ -5,7 +5,7 @@ body {
   background: linear-gradient(135deg, #556B2F, #8e44ad, #ffcc00);
   background-size: 400% 400%;
   animation: fondoAnimado 15s ease infinite;
-  color: #f8f5e1;
+  color: #556B2F;
 }
 
 @keyframes fondoAnimado {
@@ -67,4 +67,5 @@ h2 {
   background: #fff176;
   transform: scale(1.05);
 }
+
 
